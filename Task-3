@@ -1,5 +1,11 @@
 There are 13 commands to be executed.
 Performed clone more than thrice.
-Performed add and commit.
+<<<<<<< HEAD
+
+=======
+Performed add. 
+Performed commit.
 Performed commit -a.
-jaa
+Performed push.
+Performed reset.
+>>>>>>> b1-for-checkout
