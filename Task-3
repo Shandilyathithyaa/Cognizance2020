@@ -5,4 +5,10 @@ Performed commit.
 Performed commit -a.
 Performed push.
 Performed reset.
+Performed fetch.
+Performed checkout.
+Performed merge.
+Performed pull.
+Performed checkout -b.
+next to be performed rebase && fork.
 
