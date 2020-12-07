@@ -40,7 +40,7 @@ There are 7 functions in this source code excluding main function. The list of f
 <!-- -->
 
 # Future Developments
-* [x] More user friendly interface.
-* [] More items into the map.
-* [] More platforms.
-* [] Reduce time and memory of run.
+* [ ] More user friendly interface.
+* [ ] More items into the map.
+* [ ] More platforms.
+* [ ] Reduce time and memory of run.
