@@ -8,4 +8,5 @@ I chose this one because I didn't really have any other code other than this and
   * red color 'O' that pretends to be a fruit.
   * score that provides competition.
 > Disclaimer: I'm not calling this a project/game, so don't hate me. This is just a mere attempt by me to test graphics in c++.  
+![Random game pic](youtube.com/watch?v=8TokNqtYjAc)
 ## Code
