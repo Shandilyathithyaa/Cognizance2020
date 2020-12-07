@@ -1,7 +1,6 @@
-#include<iostream.h>
+#include<bits/stdc++.h>
 #include<fstream.h>
 #include<conio.h>
-#include<stdio.h>
 #include<math.h>
 #include<iomanip.h>
 #include<ctype.h>
@@ -39,7 +38,7 @@ void map()                                    //boundary for snake
 	 {
 		for(int j=100;j<400;j++)
 		 if(i==0||i==14||j==0||j==69)
-		 cout<<'#';
+		 cout<<'#';			
 		 else
 		 cout<<' ';
 		 cout<<endl;
@@ -100,7 +99,7 @@ void gameover()
 	}
 }
 
-void main()
+int main()
 {
 	int x,y;
 	char k='d';
@@ -124,4 +123,5 @@ void main()
 		delay(25);
 	}
 	closegraph();
+	return 0;
 }
