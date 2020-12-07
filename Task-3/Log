@@ -1,14 +1,20 @@
 There are 13 commands to be executed.
 Performed clone more than thrice.
+
+
 Performed add. 
 Performed commit.
 Performed commit -a.
 Performed push.
 Performed reset.
+
 Performed fetch.
 Performed checkout.
 Performed merge.
 Performed pull.
 Performed checkout -b.
 next to be performed rebase && fork.
+
+
+Performed all the operations.
 
