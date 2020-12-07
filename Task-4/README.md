@@ -38,7 +38,7 @@ There are 7 functions in this source code excluding main function. The list of f
 | controls |  Gives access to the user for controlling the snake using 'w''a''s''d'|
 | gameover |  Ends the game when either the snake bites the tail or dashes the boundary or any other key is pressed|
 
----<!-- -->
+---
 
 ## Future Developments
 * [ ] More user friendly interface.
