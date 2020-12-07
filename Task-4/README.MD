@@ -8,5 +8,6 @@ I chose this one because I didn't really have any other code other than this and
   * red color 'O' that pretends to be a fruit.
   * score that provides competition.
 > Disclaimer: I'm not calling this a project/game, so don't hate me. This is just a mere attempt by me to test graphics in c++. 
-![Snake](https://github.com/Shandilyathithyaa/Pics/blob/main/Pics/Screenshot%202020-12-07%20194111.jpg)
-## Code
+  NOTE: This code was done using Turbo C++. Converting this into dev C++ is in progress.
+![Snake](https://github.com/Shandilyathithyaa/Pics/blob/main/Pics/snuk%20(2).PNG)
+## Code Map:
