@@ -1,6 +1,6 @@
 # Snake
 ## Why this project?
-I chose this one because I didn't really have any other code that I remember than this and my 12th grade CS project, which uses concepts like classes and files and acts as a interface which helps in recruitment by connecting recruiters and job applicants. Among these two, I chose this(Because the other one needs more explaining). But I'm glad that I did this code(actually that one too) on my own without pretty much any reference/help other than my learning and maybe few syntax(that's why there are some errors still...).
+I chose this one because I didn't really have any other code that I can remember than this and my 12th grade CS project, which uses concepts like classes and files and acts as a interface which helps in recruitment by connecting recruiters and job applicants. Among these two, I chose this(Because the other one needs more explaining regarding files). Making a Snake-like game is not any deal. But I'm glad that I did this program(actually that one too) on my own without pretty much any reference/help other than maybe few syntax(that's why it needs more development...).
 
 ---
 ## What does it offer the user?
@@ -10,7 +10,7 @@ I chose this one because I didn't really have any other code that I remember tha
   * red color 'O' that pretends to be a fruit.
   * score that provides competition.
 > Disclaimer: I'm not calling this a serious project/game since it is learning markdown language, so please don't hate me. This is just a mere attempt by me to test graphics in c++ in 12th grade. 
-  NOTE: This code was done using Turbo C++. Converting this into dev C++ is in progress.
+  NOTE: This code was done using Turbo C++ compiler. Converting this into Dev C++ is in progress.
 
 ---
 
