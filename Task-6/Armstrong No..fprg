@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Shandilyathithyaa"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-12-13 10:30:43 AM"/>
+        <attribute name="created" value="U2hhbmRpbHlhdGhpdGh5YWE7TUFOSS1QQzsyMDIwLTEyLTEzOzEwOjI3OjQ3IEFNOzM1MzE="/>
+        <attribute name="edited" value="U2hhbmRpbHlhdGhpdGh5YWE7TUFOSS1QQzsyMDIwLTEyLTEzOzEwOjI3OjUwIEFNOzE7U2hhbmRpbHlhdGhpdGh5YWE7TUFOSS1QQzsyMDIwLTExLTE5OzAyOjAzOjQxIFBNO0Fzc2lnbm1lbnQuZnByZzs4ODE3"/>
+        <attribute name="edited" value="U2hhbmRpbHlhdGhpdGh5YWE7TUFOSS1QQzsyMDIwLTEyLTEzOzEwOjMwOjQzIEFNOzE7MzYyOQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="N, Sum, Temp" type="Integer" array="False" size=""/>
+            <input variable="N"/>
+            <assign variable="Sum" expression="0"/>
+            <assign variable="Temp" expression="N"/>
+            <while expression="Temp/10&gt;0">
+                <assign variable="Sum" expression="Sum+(Temp%10)^3"/>
+                <assign variable="Temp" expression="Temp/10"/>
+            </while>
+            <if expression="Sum==N">
+                <then>
+                    <output expression="&quot;The given number is an Armstrong number&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;The given number is NOT an Armstrong number&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
