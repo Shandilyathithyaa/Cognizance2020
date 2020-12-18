@@ -8,7 +8,7 @@ I chose this one because I didn't really have any other code that I can remember
 * Snake game simulation.
   * 'wasd' controls to move the so called snake.
   * red color 'O' that pretends to be a fruit.
-  * score that provides competition.
+  * score that provides competition in some sense to call it a game.
 > Disclaimer: I'm not calling this a serious project/game since it is learning markdown language, so please don't hate me. This is just a mere attempt by me to test graphics in c++ in 12th grade. 
   NOTE: This code was done using Turbo C++ compiler. Converting this into Dev C++ is in progress.
 
